@@ -71,7 +71,13 @@ If implemented, a minimal frontend allows:
 
 ## Team Members
 
-[Add your group members' names and roles here]
+[name             id
+1. nuredin seid   1501419
+2. leul tekeste   1501318
+3. selamawit asfaw 1501459
+4. selamawit girma 1501458
+
+]
 
 ## License
 
