@@ -76,6 +76,7 @@ If implemented, a minimal frontend allows:
 2. leul tekeste   1501318
 3. selamawit asfaw 1501459
 4. selamawit girma 1501458
+5. Shegaw afele 1501469
 
 ]
 
